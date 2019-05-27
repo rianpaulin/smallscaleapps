@@ -3,7 +3,7 @@ var inputName = document.querySelector('#InputBandName');
 var inputGenre = document.querySelector('#InputGenreName');
 var inputAge = document.querySelector('#InputYearFormed');
 var addBtn = document.querySelector('#AddBand')
-var bands = [];
+var bands = []
 
 
 addBtn.addEventListener('click', function(event) {
